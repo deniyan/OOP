@@ -1,0 +1,32 @@
+C:\Users\georg\Desktop\Visual Studio\KursovProekt\bin\Debug\net5.0\KursovProekt.exe
+C:\Users\georg\Desktop\Visual Studio\KursovProekt\bin\Debug\net5.0\KursovProekt.deps.json
+C:\Users\georg\Desktop\Visual Studio\KursovProekt\bin\Debug\net5.0\KursovProekt.runtimeconfig.json
+C:\Users\georg\Desktop\Visual Studio\KursovProekt\bin\Debug\net5.0\KursovProekt.runtimeconfig.dev.json
+C:\Users\georg\Desktop\Visual Studio\KursovProekt\bin\Debug\net5.0\KursovProekt.dll
+C:\Users\georg\Desktop\Visual Studio\KursovProekt\bin\Debug\net5.0\KursovProekt.pdb
+C:\Users\georg\Desktop\Visual Studio\KursovProekt\obj\Debug\net5.0\KursovProekt.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\Visual Studio\KursovProekt\obj\Debug\net5.0\KursovProekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\Visual Studio\KursovProekt\obj\Debug\net5.0\KursovProekt.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\Visual Studio\KursovProekt\obj\Debug\net5.0\KursovProekt.AssemblyInfo.cs
+C:\Users\georg\Desktop\Visual Studio\KursovProekt\obj\Debug\net5.0\KursovProekt.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Visual Studio\KursovProekt\obj\Debug\net5.0\KursovProekt.dll
+C:\Users\georg\Desktop\Visual Studio\KursovProekt\obj\Debug\net5.0\ref\KursovProekt.dll
+C:\Users\georg\Desktop\Visual Studio\KursovProekt\obj\Debug\net5.0\KursovProekt.pdb
+C:\Users\georg\Desktop\Visual Studio\KursovProekt\obj\Debug\net5.0\KursovProekt.genruntimeconfig.cache
+C:\Users\georg\Desktop\Visual Studio\KursovProekt\obj\Debug\net5.0\refint\KursovProekt.dll
+C:\Users\deniyan\Downloads\KursovProektOOP-main\KursovProektOOP-main\bin\Debug\net5.0\KursovProekt.exe
+C:\Users\deniyan\Downloads\KursovProektOOP-main\KursovProektOOP-main\bin\Debug\net5.0\KursovProekt.deps.json
+C:\Users\deniyan\Downloads\KursovProektOOP-main\KursovProektOOP-main\bin\Debug\net5.0\KursovProekt.runtimeconfig.json
+C:\Users\deniyan\Downloads\KursovProektOOP-main\KursovProektOOP-main\bin\Debug\net5.0\KursovProekt.runtimeconfig.dev.json
+C:\Users\deniyan\Downloads\KursovProektOOP-main\KursovProektOOP-main\bin\Debug\net5.0\KursovProekt.dll
+C:\Users\deniyan\Downloads\KursovProektOOP-main\KursovProektOOP-main\bin\Debug\net5.0\KursovProekt.pdb
+C:\Users\deniyan\Downloads\KursovProektOOP-main\KursovProektOOP-main\obj\Debug\net5.0\KursovProekt.csproj.AssemblyReference.cache
+C:\Users\deniyan\Downloads\KursovProektOOP-main\KursovProektOOP-main\obj\Debug\net5.0\KursovProekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniyan\Downloads\KursovProektOOP-main\KursovProektOOP-main\obj\Debug\net5.0\KursovProekt.AssemblyInfoInputs.cache
+C:\Users\deniyan\Downloads\KursovProektOOP-main\KursovProektOOP-main\obj\Debug\net5.0\KursovProekt.AssemblyInfo.cs
+C:\Users\deniyan\Downloads\KursovProektOOP-main\KursovProektOOP-main\obj\Debug\net5.0\KursovProekt.csproj.CoreCompileInputs.cache
+C:\Users\deniyan\Downloads\KursovProektOOP-main\KursovProektOOP-main\obj\Debug\net5.0\KursovProekt.dll
+C:\Users\deniyan\Downloads\KursovProektOOP-main\KursovProektOOP-main\obj\Debug\net5.0\refint\KursovProekt.dll
+C:\Users\deniyan\Downloads\KursovProektOOP-main\KursovProektOOP-main\obj\Debug\net5.0\KursovProekt.pdb
+C:\Users\deniyan\Downloads\KursovProektOOP-main\KursovProektOOP-main\obj\Debug\net5.0\KursovProekt.genruntimeconfig.cache
+C:\Users\deniyan\Downloads\KursovProektOOP-main\KursovProektOOP-main\obj\Debug\net5.0\ref\KursovProekt.dll
