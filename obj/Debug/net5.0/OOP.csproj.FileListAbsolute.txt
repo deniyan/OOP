@@ -1,0 +1,16 @@
+J:\Zadanie\ICO\OOP\bin\Debug\net5.0\OOP.exe
+J:\Zadanie\ICO\OOP\bin\Debug\net5.0\OOP.deps.json
+J:\Zadanie\ICO\OOP\bin\Debug\net5.0\OOP.runtimeconfig.json
+J:\Zadanie\ICO\OOP\bin\Debug\net5.0\OOP.runtimeconfig.dev.json
+J:\Zadanie\ICO\OOP\bin\Debug\net5.0\OOP.dll
+J:\Zadanie\ICO\OOP\bin\Debug\net5.0\OOP.pdb
+J:\Zadanie\ICO\OOP\obj\Debug\net5.0\OOP.csproj.AssemblyReference.cache
+J:\Zadanie\ICO\OOP\obj\Debug\net5.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+J:\Zadanie\ICO\OOP\obj\Debug\net5.0\OOP.AssemblyInfoInputs.cache
+J:\Zadanie\ICO\OOP\obj\Debug\net5.0\OOP.AssemblyInfo.cs
+J:\Zadanie\ICO\OOP\obj\Debug\net5.0\OOP.csproj.CoreCompileInputs.cache
+J:\Zadanie\ICO\OOP\obj\Debug\net5.0\OOP.dll
+J:\Zadanie\ICO\OOP\obj\Debug\net5.0\refint\OOP.dll
+J:\Zadanie\ICO\OOP\obj\Debug\net5.0\OOP.pdb
+J:\Zadanie\ICO\OOP\obj\Debug\net5.0\OOP.genruntimeconfig.cache
+J:\Zadanie\ICO\OOP\obj\Debug\net5.0\ref\OOP.dll

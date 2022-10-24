@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Zadanie\\ICO\\OOP\\KursovProekt.csproj": {}
+    "J:\\Zadanie\\ICO\\OOP\\OOP.csproj": {}
   },
   "projects": {
-    "J:\\Zadanie\\ICO\\OOP\\KursovProekt.csproj": {
+    "J:\\Zadanie\\ICO\\OOP\\OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Zadanie\\ICO\\OOP\\KursovProekt.csproj",
-        "projectName": "KursovProekt",
-        "projectPath": "J:\\Zadanie\\ICO\\OOP\\KursovProekt.csproj",
+        "projectUniqueName": "J:\\Zadanie\\ICO\\OOP\\OOP.csproj",
+        "projectName": "OOP",
+        "projectPath": "J:\\Zadanie\\ICO\\OOP\\OOP.csproj",
         "packagesPath": "C:\\Users\\deniyan\\.nuget\\packages\\",
         "outputPath": "J:\\Zadanie\\ICO\\OOP\\obj\\",
         "projectStyle": "PackageReference",
